@@ -1,4 +1,4 @@
-package Tema3_exercise_functions.Tema4_estructuraControl;
+package Tema4_estructuraControl;
 
 public class Main {
   public static void main(String[] args){
@@ -13,4 +13,3 @@ public class Main {
         }
   }
 }
-
