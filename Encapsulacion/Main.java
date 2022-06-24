@@ -4,12 +4,12 @@ public class Main {
     // create an object
     Person ingeniero = new Person(); 
     //setter
-    ingeniero.setAge("32");
+    ingeniero.setAge(32);
     // getter
     String age = ingeniero.getAge();
     ingeniero.setAge("Vittorio"); 
     String name = ingeniero.getName();
-    ingeniero.setAge("97645247"); 
+    ingeniero.setAge(97645247); 
     String phone = ingeniero.getPhone();
 
     System.out.println(ingeniero.age);
